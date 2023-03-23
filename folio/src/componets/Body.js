@@ -1,11 +1,13 @@
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
-
+import madden from "../assets/images/madden.jpg";
 function Body() {
   return (
     <CardGroup>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+      
+        <Card.Img variant="top" src="https://assets-prd.ignimgs.com/2022/01/21/madden-nfl-17-button-fin-1642736852482.jpg?width=300&crop=1%3A1%2Csmart" />
+        
         <Card.Body>
           <Card.Title>Madden 17</Card.Title>
           <Card.Text>
