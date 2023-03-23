@@ -16,15 +16,10 @@ function Header() {
             <Nav.Link href="#link">Link</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="https://github.com/lmmay0">GitHub</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+              
+              <NavDropdown.Item href="https://www.marvinmaynard.com/contact">Contact Me</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">
-                Separated link
-              </NavDropdown.Item>
-            </NavDropdown>
+                          </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Container>

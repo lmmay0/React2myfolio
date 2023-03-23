@@ -87,7 +87,7 @@ function Body() {
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          <small className="text-muted">Last updated 2023</small>
         </Card.Footer>
       </Card>
     </CardGroup>
