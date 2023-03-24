@@ -50,13 +50,13 @@ I collaborated with a team of 21 to update and add new match data to my rise’s
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+      <Card.Img variant="top" src="https://raw.githubusercontent.com/KlyDesign/Big12-Scorigami/main/assets/images/big12-scorigami.png" />
         <Card.Body>
-          <Card.Title>Card title</Card.Title>
+          <Card.Title>Big12-Scorigami</Card.Title>
           <Card.Text>
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This card has even longer content than the
-            first to show that equal height action.
+          Ever wonder what final scores have happened or never happened before? 
+          How about if a score is even possible? How about when that score has happened and who was playing in that game?
+          If so this is the site for you.
           </Card.Text>
         </Card.Body>
         <Card.Footer>
